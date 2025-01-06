@@ -27,6 +27,36 @@ The goal is to uncover meaningful insights from the retail sales data and highli
 
 ## Dashboard
 
+![retail business ](https://github.com/user-attachments/assets/918fb164-b742-45e5-abb3-64d93aa79923)
+
+
+### Result
+
+1. **Sales Growth:**
+   - The year 2014 recorded as highest sales with growth of 16.95%, profit of 14.41% and  5.15% decline in the profit margin compared to the year 2013
+   - The business has generated overall $2.30M with a profit of 286K dollar.
+
+2.**Sales vs Profit Analysis:**
+  - This demonstrate that sales peaked in March, September and November, while profit saw significant spikes in March, September and December. There is a noticeable increase in both sales and profit towards the end of the year, particularly in December.
+
+
+3.**Category & Subcategory Insights:**
+  - Technology category recorded the highest profit, contributing to 36.40% of sales share, except in 2012, where it dropped slightly to 34.63% and furniture category got significant sales share of 36.22%.
+  - Phones are the top-selling subcategory, generating $330K in sales.
+  - Binders are the lowest selling product in subacategory.
+
+
+4.**Geographic Insights:**
+  - Rajshahi stand out as the top performing region of $554K sales, whereas Barisal and Sylhet lagged with significantly lower sales contributions.
+  - But in 2013 Comilla was the most selling divison in bangladesh.
+
+
+5.**Segment Analysis:**
+  - The Consumer segment accounted for the highest sales, contributing  $1.16M, outperforming the other two segments.
+  - In consumer segment technology accounted as 35.00%  of sales, furniture contributed 33.66%, and office supplies made up 31.34%.
+    
+
+
 
 
   
