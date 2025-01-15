@@ -43,7 +43,7 @@ The goal is to uncover meaningful insights from the retail sales data and highli
 3. **Category & Subcategory Insights:**
   - Technology category recorded the highest profit, contributing to 36.40% of sales share, except in 2012, where it dropped slightly to 34.63% and furniture category got significant sales share of 36.22%.
   - Phones are the top-selling subcategory, generating $330K in sales.
-  - Binders are the lowest selling product in subacategory.
+  - Binders are the lowest selling product in subcategory.
 
 
 4. **Geographic Insights:**
