@@ -53,7 +53,7 @@ The goal is to uncover meaningful insights from the retail sales data and highli
 
 5. **Segment Analysis:**
   - The Consumer segment accounted for the highest sales, contributing  $1.16M, outperforming the other two segments.
-  - In consumer segment technology accounted as 35.00%  of sales, furniture contributed 33.66%, and office supplies made up 31.34%.
+  - In consumer segment technology accounted as 35%  of sales, furniture contributed 33.66%, and office supplies made up 31.34%.
     
 
 
