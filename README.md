@@ -48,7 +48,7 @@ The goal is to uncover meaningful insights from the retail sales data and highli
 
 4. **Geographic Insights:**
   - Rajshahi stand out as the top performing region of $554K sales, whereas Barisal and Sylhet lagged with significantly lower sales contributions.
-  - But in 2013 Comilla was the most selling divison in bangladesh.
+  - But in 2013 Comilla was the most selling division in bangladesh.
 
 
 5. **Segment Analysis:**
