@@ -27,9 +27,7 @@ The goal is to uncover meaningful insights from the retail sales data and highli
 
 ## Dashboard
 
-![retail business ](https://github.com/user-attachments/assets/918fb164-b742-45e5-abb3-64d93aa79923)
-
-
+![retail business ](https://github.com/user-attachments/assets/f0c029c2-b445-4c24-be2e-3d1444a67042) 
 ### Result
 
 1. **Sales Growth:**
